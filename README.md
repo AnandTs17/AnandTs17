@@ -48,7 +48,7 @@ I'm a [your role/profession, e.g., Software Developer] passionate about [your in
 
 <div align="center">
 
-![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetanm1807&show_icons=true&theme=radical&hide_border=true)
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetanm1807&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanm1807&layout=compact&theme=radical&hide_border=true)
 
@@ -56,7 +56,6 @@ I'm a [your role/profession, e.g., Software Developer] passionate about [your in
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/in/chetanm1807](https://linkedin.com/in/chetanm1807)
 - 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
 - 📧 Email: [email@example.com](mailto:email@example.com)
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
