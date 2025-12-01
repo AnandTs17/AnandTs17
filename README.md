@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Chetan! 👋
+# Hi there, I'm Anand! 👋
 
 I'm a [your role/profession, e.g., Software Developer] passionate about [your interests, e.g., web development, AI, open-source contributions].  
 [Add a short bio here, e.g., "Based in [location], I love building scalable apps and exploring new tech stacks."]
